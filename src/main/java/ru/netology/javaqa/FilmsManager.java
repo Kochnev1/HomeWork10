@@ -1,3 +1,4 @@
+package ru.netology.javaqa;
 public class FilmsManager {
     private String[] films = new String[0];
     private int limit = 5;
